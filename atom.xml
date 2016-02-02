@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://chenruiuestc.github.io/atom.xml" rel="self"/>
+  <link href="http://chenruiuestc.github.io/"/>
+  <updated>2016-02-02T23:30:37+08:00</updated>
+  <id>http://chenruiuestc.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Boom Shakalaka]]></title>
+    <link href="http://chenruiuestc.github.io/blog/2016/02/02/boom-shakalaka/"/>
+    <updated>2016-02-02T13:30:31+08:00</updated>
+    <id>http://chenruiuestc.github.io/blog/2016/02/02/boom-shakalaka</id>
+    <content type="html"><![CDATA[<h1>welcome to my world</h1>
+
+<h2>silly B!</h2>
+
+<p><em>*加粗</em>
+<code>标亮</code>
+－列表
+    －下级列表</p>
+
+<blockquote><p>引用
+<a href="www.baidu.com">xx</a>
+<img src="xxxx" alt="image" />
+Error processing input, expected syntax: {% video url/to/video [url/to/video] [url/to/video] [width height] [url/to/poster] %}</p></blockquote>
+
+<figure class='code'><figcaption><span>title</span><a href='http://xxxx'>link</a></figcaption><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+<span class='line-number'>6</span>
+</pre></td><td class='code'><pre><code class='java'><span class='line'><span class="kd">public</span> <span class="kd">class</span> <span class="nc">Markdown</span><span class="o">{</span>
+</span><span class='line'><span class="kd">public</span> <span class="kd">static</span> <span class="kt">void</span> <span class="nf">main</span><span class="o">(</span><span class="n">String</span> <span class="n">args</span><span class="o">[]){</span>
+</span><span class='line'>  <span class="n">System</span><span class="o">.</span><span class="na">out</span><span class="o">.</span><span class="na">println</span><span class="o">(</span><span class="s">&quot;this is my firsth markdown&quot;</span><span class="o">);</span>
+</span><span class='line'>  <span class="n">Systme</span><span class="o">.</span><span class="na">out</span><span class="o">.</span><span class="na">println</span><span class="o">(</span><span class="s">&quot;silly b&quot;</span><span class="o">);</span>
+</span><span class='line'>  <span class="o">}</span>
+</span><span class='line'><span class="o">}</span>
+</span></code></pre></td></tr></table></div></figure>
+
+]]></content>
+  </entry>
+  
+</feed>
